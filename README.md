@@ -24,4 +24,4 @@ One of my goal is with the knowledge of all these languages to build a new one (
 
 Also I am very pasiant about Neural Networks, Embedded Electronics (Smart Home Assistants), Mobile Applications, Web and etc. Acctually in all programming at once =)
 
-For more information check [my LinkedIn](https://www.linkedin.com/in/denis-kotov-5672b1114/)
+For more information check [LinkedIn](https://www.linkedin.com/in/denis-kotov-5672b1114/)
