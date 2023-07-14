@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I worked for a long time the follwing areas:
+I worked for a long time in the following areas:
 1) Embedded Electronics (I have master degree in Radio Electronics)
-2) Automative Industry (Bluetooth)
+2) Automative Industry (Speech Recognition, Bluetooth, Phone Connection Manager, Automotive Autonomous Driver Data Provider and etc.)
 3) Nueral Network Inference Engine ([OpenVINO NVIDIA Plugin](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/nvidia_plugin) from scratch with my team as Team Lead/Tech Lead)
 
 I am interested in learning programming languages, currently know at good level the followling languages: C/C++, Python, Java, C#, Rust, JavaScript/TypeScript.
